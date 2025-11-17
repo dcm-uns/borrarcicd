@@ -11,7 +11,7 @@ function App() {
       
       <h1>CI CD en Clase Primer intento</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+        <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
         </button>
         <p>
