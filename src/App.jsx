@@ -9,9 +9,9 @@ function App() {
   return (
     <>
       
-      <h1>CI CD Version 2</h1>
+      <h1>CI CD Version 2 falla</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+        <button onClick={() => setCount((count) => count + 3)}>
           count is {count}
         </button>
         <p>
